@@ -8,7 +8,7 @@
 ## :rocket: Sobre esse projeto
 <p>Este projeto é o cliente mobile de um projeto parte da Semana Omnistack de 2020 ofertada pela <a href="https://rocketseat.com.br/" target="_blank"> RocketSeat</a>. 
 Na semana Omnistack desenvolvemos um projeto desde seu back-end em <strong>NodeJs</strong> com integração ao database<strong> SQlite</strong>, seu cliente web com <strong>ReactJs</strong>  e seu cliente mobile com <strong>React Native</strong>  </p>
-<p>O Intuito da aplicação mobile, ou seja, deste projeto é listar entidades "Casos", que foram cadastradas no banco anteriormente através do cliente web por entidades "ONGs" (usuários propriamente ditos). Esses "Casos" possuem detalhes algo que tenha ocorrido e que a "ONG" precise de financiamento, constando informações como o valor solicitado pela ONG e contato para que o usuário do APP possa ajudar/doar para o no "Caso" selecionado.</p>
+<p>O Intuito da aplicação mobile, ou seja, deste projeto, é listar entidades "Casos", que foram cadastradas no banco anteriormente através do cliente web por entidades "ONGs" (usuários propriamente ditos). Esses "Casos" possuem detalhes sobre algo que tenha ocorrido e que a "ONG" precise de financiamento, constando informações como o valor solicitado pela ONG e contato para que o usuário do APP possa ajudar/doar para o no "Caso" selecionado.</p>
 
 ## Telas do projeto
 
@@ -47,7 +47,7 @@ O navegador de pilha do React Navigation fornece uma maneira para o seu aplicati
 - E claro, me segue aqui no [github](https://github.com/RianTavares) né :)
 
 
-<h1>License</h1>
+<h1>Licença</h1>
 
 GNU GENERAL PUBLIC LICENSE
 
