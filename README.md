@@ -10,6 +10,11 @@
 Na semana Omnistack desenvolvemos um projeto desde seu back-end em <strong>NodeJs</strong> com integração ao database<strong> SQlite</strong>, seu cliente web com <strong>ReactJs</strong>  e seu cliente mobile com <strong>React Native</strong>  </p>
 <p>O Intuito da aplicação mobile, ou seja, deste projeto, é listar entidades "Casos", que foram cadastradas no banco anteriormente através do cliente web por entidades "ONGs" (usuários propriamente ditos). Esses "Casos" possuem detalhes sobre algo que tenha ocorrido e que a "ONG" precise de financiamento, constando informações como o valor solicitado pela ONG e contato para que o usuário do APP possa ajudar/doar para o no "Caso" selecionado.</p>
 
+## Links para todos as aplicações deste sistema
+- Cliente web para gerenciar "Casos": [https://github.com/RianTavares/be-the-hero-front](https://github.com/RianTavares/be-the-hero-front)
+
+- Servidor com endpoints e gerenciamento de dados: [https://github.com/RianTavares/be-the-hero-server](https://github.com/RianTavares/be-the-hero-server)
+
 ## Telas do projeto
 
 <h1 align="center">
@@ -44,7 +49,7 @@ O navegador de pilha do React Navigation fornece uma maneira para o seu aplicati
 #### :)
 
 - Se você curtiu o projeto não esquece de dar uma :star:
-- Me segue lá no Instagram também [@riantba](https://www.instagram.com/riantba/) :heart:
+- Me segue lá no Instagram também [@riantavareson](https://www.instagram.com/riantavareson/) :heart:
 - E claro, me segue aqui no [github](https://github.com/RianTavares) né :)
 
 <h1>Licença</h1>
